@@ -7,7 +7,7 @@ const Header = () => {
         <p>L'agence qui fait briller votre image/Tel: +33(0)4 93 42 33 18</p>
       </div>
       <div className={styles.menu}>
-        <h1>Hello AIna</h1>
+        <h1>Hello AIna JH</h1>
       </div>
     </div>
   );
