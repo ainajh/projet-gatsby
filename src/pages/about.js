@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Layout>
       <div>
-        <h1>About me</h1>
+        <h1>About Aina</h1>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem quae
           nostrum nihil corrupti harum ratione sit vero aspernatur tempora
