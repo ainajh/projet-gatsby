@@ -15,10 +15,11 @@ body,
 }
 * {
   box-sizing: border-box;
-  font-family: "Montserrat";
+  font-family: "Montserrat Alternates", sans-serif;
   color: #fff;
   margin: 0;
   padding: 0;
+  text-decoration: none;
 }
 
 ::-moz-selection {
@@ -42,26 +43,27 @@ p {
   margin: 0 auto;
 }
 
-.nav {
+nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 40px auto;
 }
 
-.nav .links {
+nav .links {
   display: inline-block;
   text-align: right;
 }
 
-.nav a {
+nav a {
   display: inline-block;
   margin-left: 20px;
   font-weight: 400;
   padding-bottom: 8px;
   border-bottom: 3px solid transparent;
+  text-decoration: none;
 }
 
-.nav a:hover {
+nav a:hover {
   border-color: #fff;
 }
 
